@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : Ls2012122131435+
+Source Server         : 
 Source Server Version : 50718
 Source Host           : localhost:3306
 Source Database       : sscs
