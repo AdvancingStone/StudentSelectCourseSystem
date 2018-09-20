@@ -1,0 +1,48 @@
+.success {
+	background-image: url("../images/li_ok.gif");
+	background-color: #E6FEE4;
+	border-color: #01BE00;
+	background-repeat: no-repeat;
+	background-position: left 2px;
+	padding: 0 18px;
+}
+.danger {
+	background-image: url("../images/li_err.gif");
+	background-color: #FFF2E5;
+	border-color: #FF3300;
+	background-repeat: no-repeat;
+	background-position: left 2px;
+	padding: 0 18px;
+}
+.nav {
+	width: 800px;
+	margin: auto;
+}
+
+.nav1 {
+	border: 1px solid #666666;
+	border-radius: 5px;
+}
+.nav1>form>p>label {
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	text-align: right;
+	font-size: 14px;
+	display: inline-block;
+}
+.nav1>form>p>span {
+	background-color: #FFFFDA;
+	border: 1px solid #FFCD00;	
+	font-size: 12px;
+	height: 20px;
+	line-height: 20px;
+	display: inline-block;
+	margin-left: 40px;
+}
+.sub {
+	margin-left: 159px;
+	border: dashed 1px transparent;
+	background-color: transparent;
+	cursor: pointer;
+}

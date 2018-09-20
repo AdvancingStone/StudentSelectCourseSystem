@@ -1,0 +1,27 @@
+.edtitable {
+	width: 90%;
+	margin: 20px auto;
+	border-collapse: collapse;
+	border: 1px #aaa solid;
+	text-align: center;
+	table-layout: fixed;
+}
+.edtitable thead tr{
+	background: #D5D5D5;
+}
+.edtitable tr {
+	border: 1px #aaa solid;
+}
+.edtitable tr td input{
+}
+.edtitable tr th,
+td {
+	border: 1px #aaa solid;
+	height: 40px;
+	min-width: 50px;
+	/*使表格列宽度相等*/
+}
+.edtitable tr a {
+	color: #000000;
+}
+
